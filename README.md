@@ -1,5 +1,9 @@
 # Would You Rather WebSite?
 
+## Environment
+
+This project is tested on Nodejs v8.17.0 and requires python version 3.10.3 
+
 ## Overview
 
 In the `Would You Rather?` Project, you'll build a web app that lets a user play the “Would You Rather?” game. The game goes like this: A user is asked a question in the form: “Would you rather [option A] or [option B] ?”. Answering "neither" or "both" is against the rules.
